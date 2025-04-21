@@ -1,0 +1,7 @@
+{
+  "id": "proxy",
+  "name": "ClubInfo Proxy",
+  "version": "0.1",
+  "main": "fr.clubinfo.proxy.Main",
+  "authors": ["Thomas Chourret"]
+}
